@@ -3,14 +3,14 @@
 🎯 Embedded Software Engineer in Progress | 🚗 Automotive & IoT Enthusiast
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🧠 Passionate about embedded systems, automotive electronics and real-time control.
-- 🔧 Currently building an RC Car Telemetry System using ESP32 + nRF24L01 + Arduino
-- 🪛 Experienced in C/C++, microcontrollers and electronics.
+-  Passionate about embedded systems, automotive electronics and real-time control.
+-  Currently building an RC Car Telemetry System using ESP32 + nRF24L01 + Arduino
+-  Experienced in C/C++, microcontrollers and electronics.
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 
 **Languages:**  
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
@@ -31,10 +31,9 @@
 #### 🛰️ RC Car Telemetry System  
 ESP32 + nRF24L01 + Hall RPM + MAX6675 + MPU6050 + Voltage Sensor
 
-- 📡 Wireless link between **Arduino Nano (TX)** and **ESP32 (RX)**
-- 📊 Real-time data for **RPM, temperature, voltage, and acceleration**
-- 📲 Future goal: Dashboard app for live monitoring
-
+- Wireless link between **Arduino Nano (TX)** and **ESP32 (RX)**
+- Real-time data for **RPM, temperature, voltage, and acceleration**
+- Future goal: Upgraded remote control with the dashboard.
 [🔗 View Project Repository →](https://github.com/Mert-data-Mat/rc-telemetry)
 
 
