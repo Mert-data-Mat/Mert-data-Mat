@@ -28,7 +28,7 @@
 
 ### ⚙️ Featured Project
 
-#### 🛰️ RC Car Telemetry System  
+#### 🏎️ RC Car Telemetry System  
 ESP32 + Arduino + nRF24L01 + Hall RPM Sensor + MAX6675 + MPU6050 + Voltage Sensor
 
 - Wireless link between **Arduino Nano (TX)** and **ESP32 (RX)**.
