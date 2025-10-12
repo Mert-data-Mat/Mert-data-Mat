@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Mert  
 
-<!--
-**Mert-data-Mat/Mert-data-Mat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Embedded Software Engineer | Automotive Enthusiast | IoT & RC Hobbyist  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚗 Current Projects
+- 🔧 Building an **RC Car Telemetry System** (ESP32 + nRF24 + sensors)
+- 🧠 Developing a **C++ hardware testing library** for Arduino
+---
+
+### 📈 GitHub Stats
+![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mertozcan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertozcan&layout=compact&theme=tokyonight)
+
+---
+
+### 🧩 Fun Zone
+- 🎮 I tinker with microcontrollers on weekends.
+- 🚀 Dreaming of working in automotive embedded systems.
