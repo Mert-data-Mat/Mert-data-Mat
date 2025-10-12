@@ -59,6 +59,7 @@ ESP32 + Arduino + nRF24L01 + Hall RPM Sensor + MAX6675 + MPU6050 + Voltage Senso
     </tr>
   </table>
 </div>
+
 ### Some Facts
 
 -  I fix and reverse-engineer electronics in my spare time.
