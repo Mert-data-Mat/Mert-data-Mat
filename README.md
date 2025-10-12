@@ -10,8 +10,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mertozcan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertozcan&layout=compact&theme=tokyonight)
+![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mert-data-Mat&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mert-data-Mat&layout=compact&theme=tokyonight)
 
 ---
 
