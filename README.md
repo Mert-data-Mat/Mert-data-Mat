@@ -19,10 +19,11 @@
 
 **Hardware & Tools:**  
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&lo
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim)
+![Electronics](https://img.shields.io/badge/-Electronics-333333?style=for-the-badge&logo=electronic-arts)
 ---
 
 ### ⚙️ Featured Project
