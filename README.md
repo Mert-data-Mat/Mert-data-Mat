@@ -39,15 +39,25 @@ ESP32 + Arduino + nRF24L01 + Hall RPM Sensor + MAX6675 + MPU6050 + Voltage Senso
 
 ### 📈 GitHub Stats
 
+<h2>GitHub Stats</h2>
+
 <div align="center">
-  
-![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mert-data-Mat&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mert-data-Mat&layout=compact&theme=tokyonight&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mert-data-Mat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Mert-data-Mat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mert-data-Mat&layout=compact&theme=tokyonight&hide_border=true&card_width=420" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=Mert-data-Mat&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-
 ### Some Facts
 
 -  I fix and reverse-engineer electronics in my spare time.
