@@ -31,10 +31,11 @@
 #### 🛰️ RC Car Telemetry System  
 ESP32 + Arduino + nRF24L01 + Hall RPM Sensor + MAX6675 + MPU6050 + Voltage Sensor
 
-- Wireless link between **Arduino Nano (TX)** and **ESP32 (RX)**
-- Real-time data for **RPM, temperature, voltage, and acceleration**
+- Wireless link between **Arduino Nano (TX)** and **ESP32 (RX)**.
+- Real-time data for **RPM, temperature, voltage, and acceleration**.
 - Future goal: Upgraded remote control with the dashboard.
-[🔗 View Project Repository →](https://github.com/Mert-data-Mat/rc-telemetry)
+
+[🔗 View Project Repository →](https://github.com/Mert-data-Mat/rc-car-telemetry)
 
 
 ### 📈 GitHub Stats
