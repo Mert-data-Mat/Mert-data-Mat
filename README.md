@@ -62,16 +62,6 @@ ESP32 + Arduino + nRF24L01 + Hall RPM Sensor + MAX6675 + MPU6050 + Voltage Senso
     />
   </a>
 
-  <!-- Contribution Streak -->
-  <br>
-  <a href="https://github.com/Mert-data-Mat">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Mert-data-Mat&theme=tokyonight&hide_border=true"
-      height="165"
-      alt="GitHub Streak"
-    />
-  </a>
-
 </div>
 ### Some Facts
 
