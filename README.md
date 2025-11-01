@@ -24,15 +24,17 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim)
 ![Electronics](https://img.shields.io/badge/-Electronics-333333?style=for-the-badge&logo=electronic-arts)
+![CLion](https://img.shields.io/badge/CLion)
+
 ---
 
 ### ⚙️ Featured Project
 
 #### 🏎️ RC Car Telemetry System  
-ESP32 + Arduino + nRF24L01 + Hall RPM Sensor + MAX6675 + MPU6050 + Voltage Sensor
+ESP32 + nRF24L01 + Hall RPM Sensor + MAX6675 + MPU6050
 
-- Wireless link between **Arduino Nano (TX)** and **ESP32 (RX)**.
-- Real-time data for **RPM, temperature, voltage, and acceleration**.
+- Wireless link between two ESP32 to transmit and receive the data.
+- Real-time data for **RPM, temperature and acceleration**.
 - Future goal: Upgraded remote control with the dashboard.
 
 [🔗 View Project Repository →](https://github.com/Mert-data-Mat/rc-car-telemetry)
@@ -67,12 +69,12 @@ ESP32 + Arduino + nRF24L01 + Hall RPM Sensor + MAX6675 + MPU6050 + Voltage Senso
 
 -  I fix and reverse-engineer electronics in my spare time.
 -  I’m building my own embedded hardware testing library.
-- ☕ Runs on coffee, datasheets, and serial monitors.
+-  Runs on coffee, datasheets, and serial monitors.
 
 
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mertmat/)
 
-### 🧠 Quote of the Life
+### Quote of the Life
 > "No half-built features — only finished ones."
