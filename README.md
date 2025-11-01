@@ -24,7 +24,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim)
 ![Electronics](https://img.shields.io/badge/-Electronics-333333?style=for-the-badge&logo=electronic-arts)
-![CLion](https://img.shields.io/badge/CLion)
+![CLion](https://img.shields.io/badge/IDE-CLion-blue?logo=clion&logoColor=white)
 
 ---
 
