@@ -5,8 +5,8 @@
 
 ### About Me
 
--  Passionate about embedded systems, automotive electronics and real-time control.
--  Currently building an RC Car Telemetry System using ESP32 + nRF24L01 + Arduino
+-  Passionate about embedded systems, automotive industry and electronics.
+-  Currently building an RC Car Telemetry System using ESP32 and bunch of sensors.
 -  Experienced in C/C++, microcontrollers and electronics.
 ---
 
@@ -31,7 +31,7 @@
 ### ⚙️ Featured Project
 
 #### 🏎️ RC Car Telemetry System  
-ESP32 + nRF24L01 + Hall RPM Sensor + MAX6675 + MPU6050
+ESP32 + nRF24L01 + RPM Sensor + MAX6675 + MPU6050
 
 - Wireless link between two ESP32 to transmit and receive the data.
 - Real-time data for **RPM, temperature and acceleration**.
