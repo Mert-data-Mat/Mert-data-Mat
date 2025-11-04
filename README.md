@@ -40,7 +40,6 @@ ESP32 + nRF24L01 + RPM Sensor + MAX6675 + MPU6050
 [🔗 View Project Repository →](https://github.com/Mert-data-Mat/rc-car-telemetry)
 
 
-### 📈 GitHub Stats
 
 <h2 align="center">✨ GitHub Stats</h2>
 
