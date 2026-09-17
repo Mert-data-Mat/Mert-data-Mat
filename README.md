@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Mert
 
-🎯 Embedded Software Engineer in Progress | 🚗 Automotive & IoT Enthusiast
+🎯 Embedded Software Engineer in Progress |
 ---
 
 ### About Me
 
--  Passionate about embedded systems, automotive industry and electronics.
+-  Passionate about embedded systems, defence industry and electronics.
 -  Currently building an RC Car Telemetry System using ESP32 and bunch of sensors.
 -  Experienced in C/C++, microcontrollers and electronics.
 ---
